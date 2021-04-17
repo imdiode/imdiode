@@ -28,8 +28,10 @@
 
 ## Let's connect!
 
-- [ ] [LinkedIn](https://www.linkedin.com/in/diode16/)
-- [ ] [Instagram](https://www.instagram.com/diode.h)
-- [ ] [Facebbok](https://www.facebook.com/nandan.shukla.9404)
-- [ ] [Twitter](https://www.twitter.com/diode_tech)
-- [ ] [Mail](mailto:nandan@dicot.in)
+<p align="center">
+<img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" href="https://www.linkedin.com/in/diode16/" alt="linkedin" width="40px"/>&emsp;
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" href="https://www.instagram.com/diode.h" alt="instagram" width="40px"/>&emsp;
+<img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png" href="https://www.facebook.com/nandan.shukla.9404" alt="facebook" width="65px"/>&emsp;
+<img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" href="https://www.twitter.com/diode_tech" alt="facebook" width="40px"/>&emsp;
+<img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" href="mailto:nandan@dicot.in" alt="Mail" width="40px"/>
+</p>
