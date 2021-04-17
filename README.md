@@ -17,7 +17,7 @@
 
 ## XP
 
-* 🦈 C# | WPF | Winforms | ASP.NET | OpenCV
+* <img src="https://i.pinimg.com/originals/1c/49/2e/1c492eb6e1d085b2fa32302ecd6f8343.gif" width="45%" align="right"/>🦈 C# | WPF | Winforms | ASP.NET | OpenCV
 * 💻 QBASIC | C | C++ | Python 
 * 🌐 HTML | CSS | jQuery | PHP | WebRTC | Node.js
 * 🤖 Arduino | Pi | IoT
@@ -25,3 +25,11 @@
 * ☁️ AWS | Netlify | Firebase
 * 📑 PostgreSQL | mySQL | SQLite
 * 🧰 VS | VS code | GitHub | Blend for VS | DreamWeaver | Eclipse | Git | Dev C++ | RealVNC
+
+## Let's connect!
+
+- [ ] [LinkedIn](https://www.linkedin.com/in/diode16/)
+- [ ] [Instagram](https://www.instagram.com/diode.h)
+- [ ] [Facebbok](https://www.facebook.com/nandan.shukla.9404)
+- [ ] [Twitter](https://www.twitter.com/diode_tech)
+- [ ] [Mail](mailto:nandan@dicot.in)
