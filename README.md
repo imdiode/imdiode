@@ -9,7 +9,7 @@
 - 😎 Founder [@Dicot-India](https://github.com/Dicot-India)
 - 💾 Working on open source College ERP [CCAS](https://github.com/imdiode/CCAS)
 - 🧑‍🎓 Studying Information and Communication Technology - ICT Engineering
-- 👷 More into buiding, less into research
+- 👷 More into buiding
 - 🖥️ Constantly developing
 - 🎖️ Always leading the pack
 - 🎵 Listening and playing music is what I do to relax
