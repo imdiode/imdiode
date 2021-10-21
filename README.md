@@ -6,7 +6,7 @@
 - 👀 <img align="right" src="https://miro.medium.com/max/1800/1*YiIf4hs9q83CSbZD4fUJ7w.gif" width="65%"/>I’m interested in Industrial Automation, IIoT, AI and ML for industrial application
 - 🌱 I’m currently learning React and ML
 - 🤓 Building industrial softwares and apps 
-- 😎 Founder [@Dicot-India](https://github.com/Dicot-India) and [@Uni-Tap](https://unitap.software)
+- 😎 Founder [@Dicot-India](https://dicot.in), [@Jubatu](https://jubatu.in) and [@Uni-Tap](https://unitap.software)
 - 🧑‍🎓 Studying Information and Communication Technology - ICT Engineering
 - 👷 More into buiding
 - 🖥️ Constantly developing
