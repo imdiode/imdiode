@@ -33,5 +33,4 @@
 <a href="https://www.instagram.com/diode.h"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="instagram" width="40px"/></a>&emsp;
 <a href="https://www.facebook.com/nandan.shukla.9404"><img src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-logo.png" alt="facebook" width="65px"/></a>&emsp;
 <a href="https://www.twitter.com/diode_tech"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="Twitter" width="40px"/></a>&emsp;
-<a href="mailto:nandan@dicot.in"><img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="Mail" width="40px"/></a>
 </p>
